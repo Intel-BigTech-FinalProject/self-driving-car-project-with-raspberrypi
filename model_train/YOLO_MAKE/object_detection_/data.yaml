@@ -1,0 +1,12 @@
+names:
+  0: animal
+  1: person
+  2: traffic_red
+  3: traffic_yellow
+  4: traffic_green
+  5: right
+  6: left
+path: .
+train: ./object_detection_/images/train
+val: ./object_detection_/images/val
+test: ./object_detection_/images/test
